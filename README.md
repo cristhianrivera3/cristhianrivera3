@@ -12,23 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=700&height=120&lines=Ethical+Hacking;Red+Team+Operations;Cybersecurity+Analyst;Penetration+Testing;Vulnerability+Assessment;Network+Security;Incident+Response;Always+learning+new+things">
   </a>
 </p>
-
-<!-- Redes Sociales -->
-<p align="center">
-  <a href="https://github.com/TU_USUARIO" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.hackthebox.com/" target="blank">
-    <img align="center" src="https://www.hackthebox.com/images/logo-htb.svg" alt="hackthebox" height="30" width="40" />
-  </a>
-  <a href="mailto:TU_EMAIL" target="blank">
-    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="email" height="30" width="40" />
-  </a>
-</p>
-
 <!-- Sección de Información Personal -->
 <br>
 <br>
@@ -36,9 +19,8 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  <b>📍 Location:</b> Madrid, Spain<br>
-  <b>🎓 Education:</b> Software Engineering at UNIR Madrid (2026-1)<br>
-  <b>🔐 Specialization:</b> Ethical Hacking - Red Team / Offensive Security<br>
+  <b>📍 Location:</b> Bogota, Colombia <br>
+  <b>🎓 Education:</b> Software Engineering at Compensar University Foundation (2026-1)<br>
   <b>🛡️ Philosophy:</b> I apply cybersecurity pillars practically to protect systems and technological devices, focusing on threat prevention and vulnerability management within corporate infrastructures.<br>
   <b>💻 Platforms:</b> Hack The Box | HackForYou<br>
   <b>📚 Learning:</b> Networks & Cybersecurity
