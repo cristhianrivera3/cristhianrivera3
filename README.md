@@ -3,10 +3,7 @@
   Hi, I am Cristhian Samuel Zambrano Rivera
 </h1>
 
-<h3 align="center">Ethical Hacker | Red Team Specialist | Software Developer</h3>
-<h4 align="center">🎓 1st Semester Software Engineering - UNIR Madrid</h4>
-<h4 align="center">💼 1 year of experience in Cybersecurity & Software Development</h4>
-
+<h3 align="center">Ethical Hacker | Red Team | Software Developer</h3>
 <!-- Espacio vertical -->
 <br>
 
