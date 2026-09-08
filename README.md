@@ -1,28 +1,68 @@
-<h1 align="center">Hi, I'm Cristhian Rivera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  Hi, I am Cristhian Samuel Zambrano Rivera
+</h1>
 
-<br>
+<h3 align="center">Ethical Hacker | Red Team Specialist | Software Developer</h3>
+<h4 align="center">🎓 1st Semester Software Engineering - UNIR Madrid</h4>
+<h4 align="center">💼 1 year of experience in Cybersecurity & Software Development</h4>
+
+<!-- Espacio vertical -->
 <br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Ethical+hacking;Software;Computer+Student;Competitive+Programmer;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=700&height=120&lines=Ethical+Hacking;Red+Team+Operations;Cybersecurity+Analyst;Penetration+Testing;Vulnerability+Assessment;Network+Security;Incident+Response;Always+learning+new+things">
   </a>
 </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<!-- Redes Sociales -->
+<p align="center">
+  <a href="https://github.com/TU_USUARIO" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="blank">
+    <img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.hackthebox.com/" target="blank">
+    <img align="center" src="https://www.hackthebox.com/images/logo-htb.svg" alt="hackthebox" height="30" width="40" />
+  </a>
+  <a href="mailto:TU_EMAIL" target="blank">
+    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="email" height="30" width="40" />
+  </a>
+</p>
 
-<br>About me<br>
-
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<!-- Sección de Información Personal -->
 <br>
+<br>
+
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+  <b>📍 Location:</b> Madrid, Spain<br>
+  <b>🎓 Education:</b> Software Engineering at UNIR Madrid (2026-1)<br>
+  <b>🔐 Specialization:</b> Ethical Hacking - Red Team / Offensive Security<br>
+  <b>🛡️ Philosophy:</b> I apply cybersecurity pillars practically to protect systems and technological devices, focusing on threat prevention and vulnerability management within corporate infrastructures.<br>
+  <b>💻 Platforms:</b> Hack The Box | HackForYou<br>
+  <b>📚 Learning:</b> Networks & Cybersecurity
+</p>
+
+<!-- Certificaciones -->
+<br>
+
+<h3 align="center">🏆 Certifications</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft">
+</p>
+
+<!-- Frase final -->
+<br>
+
+<p align="center">
+  <i>"Aprendizaje autónomo y progresivo"</i>
+</p>
+
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
